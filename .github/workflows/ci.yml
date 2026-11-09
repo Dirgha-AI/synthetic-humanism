@@ -23,25 +23,25 @@ jobs:
 
     - name: Validate AIA v1.1 Recursive JSON Schema
       run: |
-        python 04_COMPUTATIONAL_ENGINE/validate_schema.py
+        python 02_COMPUTATIONAL_ENGINE/validate_schema.py
 
     - name: Run Stage 1 AIA v1.1 Unit Tests (13 Tests) & 50-System Monte Carlo Benchmark
       run: |
-        python 04_COMPUTATIONAL_ENGINE/tests/test_scorer.py
-        python 04_COMPUTATIONAL_ENGINE/benchmark/run_benchmark.py
+        python 02_COMPUTATIONAL_ENGINE/tests/test_scorer.py
+        python 02_COMPUTATIONAL_ENGINE/benchmark/run_benchmark.py
 
     - name: Run 20 Historical AI & Autonomous Disasters Retrospective Validation
       run: |
-        python 04_COMPUTATIONAL_ENGINE/benchmark/run_historical_disasters.py
+        python 02_COMPUTATIONAL_ENGINE/benchmark/run_historical_disasters.py
 
     - name: Run 4-Pillar Non-Labor Macroeconomic Calibration Simulator
       run: |
-        python 04_COMPUTATIONAL_ENGINE/macro/sim_abundance_macro.py
+        python 02_COMPUTATIONAL_ENGINE/macro/sim_abundance_macro.py
 
     - name: Run Stage 2 LOKAHI v0.1.2, MCP JSON-RPC Proxy, Ghostproof & Kinetic Ahimsa (43 Unit Tests + 4 Suites)
       run: |
-        python 04_COMPUTATIONAL_ENGINE/lokahi/tests/test_core.py
-        python 04_COMPUTATIONAL_ENGINE/lokahi/tools/mcp_stdio_proxy.py --self-test
-        python 04_COMPUTATIONAL_ENGINE/lokahi/tools/run_evals.py
-        python 04_COMPUTATIONAL_ENGINE/lokahi/tools/run_ghostproof_evals.py
-        python 04_COMPUTATIONAL_ENGINE/lokahi/tools/run_kinetic_evals.py
+        python 02_COMPUTATIONAL_ENGINE/lokahi/tests/test_core.py
+        python 02_COMPUTATIONAL_ENGINE/lokahi/tools/mcp_stdio_proxy.py --self-test
+        python 02_COMPUTATIONAL_ENGINE/lokahi/tools/run_evals.py
+        python 02_COMPUTATIONAL_ENGINE/lokahi/tools/run_ghostproof_evals.py
+        python 02_COMPUTATIONAL_ENGINE/lokahi/tools/run_kinetic_evals.py

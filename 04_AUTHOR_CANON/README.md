@@ -1,6 +1,6 @@
 # Salik Shah: Author Canon, Key Essays & Production Scripts
 
-This directory houses the foundational essays, speaking transcripts, and video studio SRT scripts authored by **Salik Shah** that form the intellectual bedrock and lived philosophy of **Synthetic Humanism**.
+This directory houses the foundational essays, speaking transcripts, and video studio SRT scripts authored by **Salik Shah** ([salikshah.com](https://salikshah.com) · [x.com/salik](https://x.com/salik)) that form the intellectual bedrock and lived philosophy of **Synthetic Humanism**.
 
 ---
 

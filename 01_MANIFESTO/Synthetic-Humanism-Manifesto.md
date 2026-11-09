@@ -3,7 +3,7 @@
 
 **Salik Shah**  
 *Founder & Lead Systems Architect, Dirgha AI · Founding Editor, Mithila Review*  
-*New Delhi, India · salikshah.com*
+*New Delhi, India · [salikshah.com](https://salikshah.com) · [x.com/salik](https://x.com/salik)*
 
 ---
 

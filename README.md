@@ -86,7 +86,6 @@ Synthetic-Humanism/
 │   └── validate_schema.py                                       # Recursive JSON Schema v1.1 validator
 │
 ├── 05_PUBLIC_ESSAYS/
-│   ├── the-somatic-organization.md                              # Flagship Essay: "The Somatic Organization" (Judgment Layer)
 │   ├── aeon-style-nonviolent-ai.md                              # Macro-philosophical essay adaptation
 │   ├── mit-tech-review-style-ahimsa-ai.md                       # Systems & protocol essay adaptation
 │   └── salikshah-blog-post.md                                   # Builder essay on Dirgha Code, AIA & LOKAHI

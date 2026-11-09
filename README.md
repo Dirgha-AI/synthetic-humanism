@@ -39,18 +39,6 @@ Synthetic-Humanism/
 │   ├── Synthetic-Humanism-Manifesto.md                          # Founding manifesto (Markdown edition)
 │   └── the-synthetic-humanist.html                              # Standalone web publication edition
 │
-├── 02_ACADEMIC_PAPERS/
-│   ├── Paper-1-Synthetic-Humanism-Ahimsa-of-Abundance.md        # Monograph 1: Flagship Unified Monograph
-│   ├── Paper-2-Ahimsa-as-a-Timeout-Rule-LOKAHI-DPI.md           # Monograph 2: LOKAHI x ASTRA (arXiv:2602.17357) for DPI
-│   ├── Paper-3-Ahimsa-by-Design-Dual-Axis-AIA.md                # Monograph 3: AIA v1.1 Dual-Axis Evaluation
-│   ├── Paper-4-LOKAHI-Disjoint-Threshold-Consent-Rings.md       # Monograph 4: Multi-Agent RFC 8785 & RFC 9591 FROST
-│   ├── Paper-5-Ghostproof-Epistemic-Uncertainty.md              # Monograph 5: Somatic Judgment Layer & Entropy Seams
-│   ├── Paper-6-Kinetic-Ahimsa-Embodied-Robotics-Interlocks.md   # Monograph 6: Pre-Flight Force Envelopes & Safety
-│   ├── The-Judgment-Layer-Complete-Project-Record.md            # Somatic Organization & Judgment Layer Research Record
-│   ├── Synthetic-Humanism-Flagship-Paper.md                     # Canonical Unified Flagship Monograph
-│   ├── FAccT-Conference-Submission-Draft.md                     # Empirical validation manuscript
-│   └── AIA-Empirical-Validation-Report.md                       # AIA v1.1 Empirical Benchmark Report
-│
 ├── 04_COMPUTATIONAL_ENGINE/
 │   ├── schema/
 │   │   └── ahimsa-schema.json                                   # Recursive JSON Schema v1.1 (with LOKAHI spec)
@@ -110,7 +98,7 @@ py 04_COMPUTATIONAL_ENGINE/benchmark/run_benchmark.py
 py 04_COMPUTATIONAL_ENGINE/benchmark/run_historical_disasters.py
 py 04_COMPUTATIONAL_ENGINE/macro/sim_abundance_macro.py
 
-# 3. Run Stage 2 LOKAHI v0.1.2, MCP JSON-RPC Proxy, Ghostproof (Paper 5), & Kinetic Ahimsa (Paper 6) (43 Unit Tests + 4 Suites)
+# 3. Run Stage 2 LOKAHI v0.1.2, MCP JSON-RPC Proxy, Ghostproof, & Kinetic Ahimsa (43 Unit Tests + 4 Suites)
 py 04_COMPUTATIONAL_ENGINE/lokahi/tests/test_core.py
 py 04_COMPUTATIONAL_ENGINE/lokahi/tools/mcp_stdio_proxy.py --self-test
 py 04_COMPUTATIONAL_ENGINE/lokahi/tools/run_evals.py
@@ -120,27 +108,15 @@ py 04_COMPUTATIONAL_ENGINE/lokahi/tools/run_kinetic_evals.py
 
 ---
 
-## Academic Monograph & Research Series
+## Academic Research Monographs
 
-The Synthetic Humanism foundational research corpus comprises six interconnected academic monographs authored by Salik Shah:
-
-1. **Monograph 1:** *Synthetic Humanism: Intelligence, Non-Harm, and the Ahimsa of Abundance*  
-   *Foundational monograph deriving the civilizational philosophy, Asimov Three Laws failure diagnosis, Indic jurisprudence Grundnorm, Four-Pillar Non-Labor Capitalization Engine, and two-stage computational verification stack.*
-
-2. **Monograph 2:** *Ahimsa as a Timeout Rule: Operationalizing Non-Harm in AI Accountability Infrastructure for Digital Public Goods*  
-   *Runtime boundary enforcement and MCP interception resolving contextual blindness in Digital Public Infrastructure (DPI) via 15 ordered decision rules and the fail-closed Ahimsa Timeout Rule (`non_response -> forbidden`).*
-
-3. **Monograph 3:** *Ahimsa-by-Design: Dual-Axis Evaluation of Non-Extraction and Affirmative Flourishing in AI Systems*  
-   *Stage 1 ex-ante evaluation framework (`AIA v1.1`) decoupling the Himsa Risk Penalty ($R \in [0, 187.5]$) and Sarvodaya Flourishing Index ($F \in [0, 100]$) with automated compilation to RFC 8785 Boundary Manifests.*
-
-4. **Monograph 4:** *LOKAHI: Disjoint Threshold Consent Rings and Cryptographic Boundary Manifests for Multi-Agent Collectives*  
-   *Multi-agent inter-domain boundary security: RFC 8785 manifests, DID/SPIFFE disjointness attestation graph, IETF RFC 9591 FROST 3-of-3 threshold consent, and 2-of-3 dissenting restraint freeze.*
-
-5. **Monograph 5:** *Ghostproof: The Somatic Judgment Layer, Epistemic Uncertainty, and Load-Bearing Human Agency in AI Delegation*  
-   *Somatic organizational architecture countering hollow oversight and clinical/cognitive deskilling: 4-axis delegation routing, token-entropy hesitation seams, daily sparring nodes, and Brier calibration.*
-
-6. **Monograph 6:** *Kinetic Ahimsa: Pre-Flight Force-Envelope Manifests and Hardware Interlocks for Embodied Robotics*  
-   *Spinal pre-flight hardware boundary architecture bridging high-level neural planners with real-time impedance control and kinematic stopping-distance barrier functions across robotic workcells.*
+The theoretical foundations of Synthetic Humanism are detailed across a series of research monographs authored by Salik Shah:
+- **Monograph 1:** *Synthetic Humanism: Intelligence, Non-Harm, and the Ahimsa of Abundance* (Foundational Philosophy & Macroeconomics)
+- **Monograph 2:** *Ahimsa as a Timeout Rule: Operationalizing Non-Harm in AI Accountability Infrastructure for Digital Public Goods* (DPI & Fail-Closed Protocols)
+- **Monograph 3:** *Ahimsa-by-Design: Dual-Axis Evaluation of Non-Extraction and Affirmative Flourishing in AI Systems* (AIA v1.1 Specification)
+- **Monograph 4:** *LOKAHI: Disjoint Threshold Consent Rings and Cryptographic Boundary Manifests for Multi-Agent Collectives* (Multi-Agent Security)
+- **Monograph 5:** *Ghostproof: The Somatic Judgment Layer, Epistemic Uncertainty, and Load-Bearing Human Agency in AI Delegation* (Cognitive & Organizational Safety)
+- **Monograph 6:** *Kinetic Ahimsa: Pre-Flight Force-Envelope Manifests and Hardware Interlocks for Embodied Robotics* (Embodied AI & Force Envelopes)
 
 ---
 

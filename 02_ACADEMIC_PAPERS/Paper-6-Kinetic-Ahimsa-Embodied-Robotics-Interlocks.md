@@ -1,7 +1,8 @@
 # Kinetic Ahimsa: Pre-Flight Force-Envelope Manifests and Hardware Interlocks for Embodied Robotics
 
-**Salik Shah** (Principal Investigator & Lead Systems Architect, Dirgha AI, New Delhi · salikshah.com)  
-**Sabin Ranjit** (Co-Investigator & Lead Security Architect, Kaluza, London)
+**Salik Shah**  
+Founder & Lead Systems Architect, Dirgha AI · Founding Editor, *Mithila Review*  
+New Delhi, India · salikshah.com · salik.shah@gmail.com
 
 **Target Venues:** IEEE International Conference on Robotics and Automation (ICRA 2027) Safe Embodied AI Workshop · IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2027) · Conference on Robot Learning (CoRL)  
 **Open-Source Repositories & Verification Harness:** `github.com/Dirgha-AI/lokahi` (Apache-2.0 · `tools/lokahi.py`, `tools/run_kinetic_evals.py`) · `DEX ARM 01 Lab` · `WallFin` · `Lite3 Quadruped Kinematics Lab`

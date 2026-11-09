@@ -1,8 +1,8 @@
 # Ahimsa as a Timeout Rule: Operationalizing Non-Harm in AI Accountability Infrastructure for Digital Public Goods
 
-**Salik Shah** (Principal Investigator, Dirgha AI, New Delhi · salikshah.com)  
-**Sabin Ranjit** (Co-Investigator & Lead Security Architect, Kaluza, London)  
-**A. Mukundan** (Proposed Co-Author, Centre for Digitalisation, AI and Society (CDAIS), Ashoka University)
+**Salik Shah**  
+Founder & Lead Systems Architect, Dirgha AI · Founding Editor, *Mithila Review*  
+New Delhi, India · salikshah.com · salik.shah@gmail.com
 
 **Target Venues:** CDAIS Ashoka University Working Paper Series · GOVTECH-ETHICS 2027 · *SCRIPTed — A Journal of Law, Technology & Society* (University of Edinburgh, Diamond Open Access)  
 **Reference Implementation & Corpus:** `github.com/Dirgha-AI/lokahi` (Apache-2.0 / CC-BY-4.0)

@@ -3,7 +3,6 @@
 **Salik Shah**  
 Founder & Lead Systems Architect, Dirgha AI · Founding Editor, *Mithila Review* · Founding Board Member, Plurality University Network  
 New Delhi, India · salikshah.com · salik.shah@gmail.com  
-*(With runtime protocol and critical-infrastructure security architecture on the LOKAHI stack developed with Sabin Ranjit, Senior Security Engineer at Kaluza, London)*
 
 **Open-Source Repositories & Verification Harnesses:**
 - **Stage 1 Ex-Ante Evaluation & Manifest Compiler (`AIA v1.1`, MIT):** `github.com/Dirgha-AI/ahimsa-ai` (`scorer.py`, `ahimsa-schema.json`, `benchmark_results.json`)

@@ -1,8 +1,8 @@
 # LOKAHI: Disjoint Threshold Consent Rings and Cryptographic Boundary Manifests for Multi-Agent Collectives
 
-**Salik Shah** (Principal Investigator & Lead Systems Architect, Dirgha AI, New Delhi · salikshah.com)  
-**Sabin Ranjit** (Co-Investigator & Lead Security Architect, Kaluza, London)  
-**Dr. Prashant Agrawal** (Proposed Cryptographic Collaborator, Centre for Digitalisation, AI and Society (CDAIS), Ashoka University)
+**Salik Shah**  
+Founder & Lead Systems Architect, Dirgha AI · Founding Editor, *Mithila Review*  
+New Delhi, India · salikshah.com · salik.shah@gmail.com
 
 **Target Venues:** NeurIPS 2027 SoLaR / SafeGenAI Workshop · Privacy Enhancing Technologies Symposium (PoPETS 2027) · IEEE S&P / USENIX Security Workshop on Agentic Systems  
 **Open-Source Reference Core & Benchmark:** `github.com/Dirgha-AI/lokahi` (Apache-2.0 · `tools/lokahi.py`, `tools/run_evals.py`, `data/LOKAHI_RedTeam_Corpus_v1.0.csv`)

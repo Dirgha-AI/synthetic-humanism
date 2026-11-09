@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:22,000
+I think we're living in a very exciting time when we've gone from the species which picked the first stone to make the first instrument, the first tool to a species which has gone to space.
+
+2
+00:00:22,000 --> 00:00:37,000
+We built a starship and now we're building computing farms in the outer space and we're looking at Mars and building space stations on the moon.
+
+3
+00:00:37,000 --> 00:00:47,000
+This is a very exciting time for all of us and we didn't come here by chance. It wasn't a random stroke of luck.
+
+4
+00:00:47,000 --> 00:01:12,000
+There's generations of computation that has occurred biologically over multiple decades, over multiple centuries, for us to come to a point where we have been able to replicate some of that neural processes, some of that neural network onto an artificial simulation.
+
+5
+00:01:12,000 --> 00:01:41,000
+On to our data center, a physical body for our neural network. And ever since we picked that first stone or that first bone to make a flute, to make music, human beings always built things so that we could pass on the knowledge, not just the genetic code but also the knowledge and the discoveries that we made.
+
+6
+00:01:41,000 --> 00:02:06,000
+During our life time and knowledge is what makes human beings different. We build on the soldiers of giants on the bones of our ancestors. We keep taking that knowledge and building forward, taking that knowledge and advancing it.
+
+7
+00:02:06,000 --> 00:02:26,000
+The funny thing is, that's how we've always done things. And now if AI is taking all of humanity's knowledge and advancing it, like Chad Jupiter just did, they published more than 700 people's new discoveries.
+
+8
+00:02:26,000 --> 00:02:45,000
+These are unsolved math problems that they just solved, they applied massive computing and they solved those unsolved math problems, mathematical questions. And the funny thing is, the math community, the mathematicians, the people in God, the gatekeepers.
+
+9
+00:02:45,000 --> 00:02:59,000
+They are like, we didn't ask for it, because it threatens the current system, the reward incentive or the reward structure.
+
+10
+00:02:59,000 --> 00:03:17,000
+The way our society has been structured so far, it needs rethinking, it needs reshaping because we cannot have the best minds of our generation, not use the most powerful tools.
+
+11
+00:03:17,000 --> 00:03:35,000
+We need to fix the incentive structure, the reward mechanism so that more people can participate. So that we feel proud, we feel we'll be taken care of. There's no insecurity. That's something that we need to fix.
+
+12
+00:03:35,000 --> 00:03:46,000
+And it won't come from opposition to AI or advancements, it won't come from slowing down the rate of progress. I don't think so.
+
+13
+00:03:46,000 --> 00:04:03,000
+Now that we're entering an era of robotics, 3D printing prefab, now that we can customize each and every piece, if we can personalize it at scale, there's a lot of room for creativity.
+
+14
+00:04:03,000 --> 00:04:21,000
+So for me, now that we're entering this new era of abundance, of creativity, I don't see why we're so concerned about these doom narratives.
+
+15
+00:04:21,000 --> 00:04:34,000
+Yes, I understand there are legitimate fears and concerns, I understand there are many problems with the way our world operates today.
+
+16
+00:04:34,000 --> 00:04:49,000
+But we can fix them, we can change them. I'm an optimist, when it comes to these things and I look at the long horizon. For the longest time, knowledge was expensive, it was expertise was inaccessible, it was very expensive, it was rare.
+
+17
+00:04:49,000 --> 00:05:00,000
+I feel we're entering a new era where we have this adolescent tutors who can assist us, who can teach us what to do, how the thing is done.
+
+18
+00:05:00,000 --> 00:05:10,000
+So I believe things will change, we can fix those things, but it won't happen if you're not participating in the process.
+
+19
+00:05:10,000 --> 00:05:17,000
+If you're looking, if you're standing on the sidelines and commenting, you need to get deep, you need to get your hands dirty.
+
+20
+00:05:17,000 --> 00:05:33,000
+And that's what I did with Derriger Code. I open source the harness when there are very few harnesses. See AI will soon become part of, it's already part of our machines, our phones.
+
+21
+00:05:33,000 --> 00:05:42,000
+We're going to have high intelligence by default on our machine, and then it will become normalized.
+
+22
+00:05:42,000 --> 00:05:57,000
+And then again, the problem that we'll be trying to solve will remain the same, which is motivating people, inspiring people, rallying them to a cause to get something done in the physical world.
+

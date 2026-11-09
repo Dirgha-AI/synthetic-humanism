@@ -1,0 +1,118 @@
+{
+  "scenarios": [
+    {
+      "region": "India (DPI / UPI Rails)",
+      "regime": "Scenario 1: Task Augmentation (2027-2029)",
+      "gdp_usd_billions": 4500.0,
+      "automated_capital_share_pct": 18.0,
+      "pillars_usd_billions": {
+        "p1_corporate_equity_warrants_35pct": 113.4,
+        "p2_compute_energy_severance_25pct": 81.0,
+        "p3_georgist_land_value_capture_25pct": 81.0,
+        "p4_agent_b2b_settlement_fee_15pct": 48.6
+      },
+      "total_annual_endowment_usd_billions": 324.0,
+      "endowment_pct_of_gdp": 7.2,
+      "ubc_direct_pool_usd_billions": 226.8,
+      "supply_side_abundance_capex_usd_billions": 97.2,
+      "nominal_annual_ubc_per_adult_usd": 222.35,
+      "supply_side_essential_cost_reduction_pct": 12.0,
+      "real_purchasing_power_ubc_per_adult_usd": 253.48
+    },
+    {
+      "region": "India (DPI / UPI Rails)",
+      "regime": "Scenario 2: Wage Compression (2030-2033)",
+      "gdp_usd_billions": 6200.0,
+      "automated_capital_share_pct": 32.0,
+      "pillars_usd_billions": {
+        "p1_corporate_equity_warrants_35pct": 277.76,
+        "p2_compute_energy_severance_25pct": 198.4,
+        "p3_georgist_land_value_capture_25pct": 198.4,
+        "p4_agent_b2b_settlement_fee_15pct": 119.04
+      },
+      "total_annual_endowment_usd_billions": 793.6,
+      "endowment_pct_of_gdp": 12.8,
+      "ubc_direct_pool_usd_billions": 555.52,
+      "supply_side_abundance_capex_usd_billions": 238.08,
+      "nominal_annual_ubc_per_adult_usd": 524.08,
+      "supply_side_essential_cost_reduction_pct": 25.0,
+      "real_purchasing_power_ubc_per_adult_usd": 697.03
+    },
+    {
+      "region": "India (DPI / UPI Rails)",
+      "regime": "Scenario 3: Structural AGI Decoupling (2034+)",
+      "gdp_usd_billions": 8500.0,
+      "automated_capital_share_pct": 52.0,
+      "pillars_usd_billions": {
+        "p1_corporate_equity_warrants_35pct": 618.8,
+        "p2_compute_energy_severance_25pct": 442.0,
+        "p3_georgist_land_value_capture_25pct": 442.0,
+        "p4_agent_b2b_settlement_fee_15pct": 265.2
+      },
+      "total_annual_endowment_usd_billions": 1768.0,
+      "endowment_pct_of_gdp": 20.8,
+      "ubc_direct_pool_usd_billions": 1237.6,
+      "supply_side_abundance_capex_usd_billions": 530.4,
+      "nominal_annual_ubc_per_adult_usd": 1125.09,
+      "supply_side_essential_cost_reduction_pct": 42.0,
+      "real_purchasing_power_ubc_per_adult_usd": 1935.15
+    },
+    {
+      "region": "OECD Baseline",
+      "regime": "Scenario 1: Task Augmentation (2027-2029)",
+      "gdp_usd_billions": 28000.0,
+      "automated_capital_share_pct": 20.0,
+      "pillars_usd_billions": {
+        "p1_corporate_equity_warrants_35pct": 784.0,
+        "p2_compute_energy_severance_25pct": 560.0,
+        "p3_georgist_land_value_capture_25pct": 560.0,
+        "p4_agent_b2b_settlement_fee_15pct": 336.0
+      },
+      "total_annual_endowment_usd_billions": 2240.0,
+      "endowment_pct_of_gdp": 8.0,
+      "ubc_direct_pool_usd_billions": 1568.0,
+      "supply_side_abundance_capex_usd_billions": 672.0,
+      "nominal_annual_ubc_per_adult_usd": 3733.33,
+      "supply_side_essential_cost_reduction_pct": 10.0,
+      "real_purchasing_power_ubc_per_adult_usd": 4144.0
+    },
+    {
+      "region": "OECD Baseline",
+      "regime": "Scenario 2: Wage Compression (2030-2033)",
+      "gdp_usd_billions": 32500.0,
+      "automated_capital_share_pct": 35.0,
+      "pillars_usd_billions": {
+        "p1_corporate_equity_warrants_35pct": 1592.5,
+        "p2_compute_energy_severance_25pct": 1137.5,
+        "p3_georgist_land_value_capture_25pct": 1137.5,
+        "p4_agent_b2b_settlement_fee_15pct": 682.5
+      },
+      "total_annual_endowment_usd_billions": 4550.0,
+      "endowment_pct_of_gdp": 14.0,
+      "ubc_direct_pool_usd_billions": 3185.0,
+      "supply_side_abundance_capex_usd_billions": 1365.0,
+      "nominal_annual_ubc_per_adult_usd": 7494.12,
+      "supply_side_essential_cost_reduction_pct": 22.0,
+      "real_purchasing_power_ubc_per_adult_usd": 9592.47
+    },
+    {
+      "region": "OECD Baseline",
+      "regime": "Scenario 3: Structural AGI Decoupling (2034+)",
+      "gdp_usd_billions": 38000.0,
+      "automated_capital_share_pct": 55.0,
+      "pillars_usd_billions": {
+        "p1_corporate_equity_warrants_35pct": 2926.0,
+        "p2_compute_energy_severance_25pct": 2090.0,
+        "p3_georgist_land_value_capture_25pct": 2090.0,
+        "p4_agent_b2b_settlement_fee_15pct": 1254.0
+      },
+      "total_annual_endowment_usd_billions": 8360.0,
+      "endowment_pct_of_gdp": 22.0,
+      "ubc_direct_pool_usd_billions": 5852.0,
+      "supply_side_abundance_capex_usd_billions": 2508.0,
+      "nominal_annual_ubc_per_adult_usd": 13609.3,
+      "supply_side_essential_cost_reduction_pct": 38.0,
+      "real_purchasing_power_ubc_per_adult_usd": 21910.97
+    }
+  ]
+}

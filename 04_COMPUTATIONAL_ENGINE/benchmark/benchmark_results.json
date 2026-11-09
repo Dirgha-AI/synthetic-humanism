@@ -1,0 +1,1867 @@
+{
+  "summary": {
+    "total_systems_evaluated": 50,
+    "compiled_lokahi_manifests": 36,
+    "overall_metrics": {
+      "mean_himsa_risk_score": 41.48,
+      "min_himsa_risk_score": 3.0,
+      "max_himsa_risk_score": 187.5,
+      "mean_sarvodaya_flourishing_score": 67.38,
+      "min_sarvodaya_flourishing_score": 0,
+      "max_sarvodaya_flourishing_score": 100
+    },
+    "risk_band_distribution": {
+      "Low": 24,
+      "Medium": 7,
+      "High": 7,
+      "Critical": 12
+    },
+    "flourishing_band_distribution": {
+      "Exemplary": 33,
+      "Substantive": 2,
+      "Deficient": 15
+    },
+    "refusals": {
+      "total_refused": 14,
+      "red_line_refused": 9,
+      "critical_risk_refused": 5,
+      "conditional_lokahi_ring_routed": 5
+    },
+    "monte_carlo_sensitivity": {
+      "trials": 1000,
+      "perturbation_bound": "+/-25%",
+      "mean_risk_spearman_rho": 0.999,
+      "min_risk_spearman_rho": 0.9986,
+      "mean_flourishing_spearman_rho": 0.9997,
+      "min_flourishing_spearman_rho": 0.995,
+      "mean_refusal_invariance_rate": 98.57
+    },
+    "sector_breakdown": {
+      "agriculture": {
+        "total": 10,
+        "refused": 2,
+        "conditional_high_risk": 1,
+        "mean_risk": 22.95,
+        "mean_flourishing": 74.3
+      },
+      "finance": {
+        "total": 10,
+        "refused": 4,
+        "conditional_high_risk": 1,
+        "mean_risk": 54.95,
+        "mean_flourishing": 58.8
+      },
+      "healthcare": {
+        "total": 10,
+        "refused": 1,
+        "conditional_high_risk": 1,
+        "mean_risk": 17.4,
+        "mean_flourishing": 78.0
+      },
+      "defense": {
+        "total": 10,
+        "refused": 5,
+        "conditional_high_risk": 1,
+        "mean_risk": 79.1,
+        "mean_flourishing": 47.8
+      },
+      "public administration": {
+        "total": 10,
+        "refused": 2,
+        "conditional_high_risk": 1,
+        "mean_risk": 33.02,
+        "mean_flourishing": 78.0
+      }
+    }
+  },
+  "evaluations": [
+    {
+      "project_name": "Agrarian Advisory Maharashtra",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 11.25,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 3,
+        "likelihood_desc": "Possible (30-50% probability)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Punjab Micro-Irrigation Scheduler",
+      "version": "1.2",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 2,
+        "population_desc": "100 - 1,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(2)<inferred(3)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 80,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 5,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Karnataka Pest Vision Mobile",
+      "version": "2.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 96,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 21,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Precision Aerial Pesticide Drone Fleet",
+      "version": "1.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "CONDITIONAL (Mandatory External Audit & Oversight)",
+      "lokahi_stage2_routing": "DISJOINT_3_BODY_RING_REQUIRED",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 33.75,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 3,
+        "likelihood_desc": "Possible (30-50% probability)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 30,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 20,
+          "data_sovereignty": 5,
+          "public_good": 0,
+          "redress_accountability": 5
+        }
+      }
+    },
+    {
+      "project_name": "Gujarat Dairy Cooperative Lactation Model",
+      "version": "2.3",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 10.0,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 93,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 18,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Forest Land Rights AI Spatial Mapper",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 10.0,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 2,
+        "severity_desc": "Minor (reversible distress, transient disadvantage)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "APMC Mandi Price Arbitrage Predictor",
+      "version": "3.1",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Unacceptable Full-Stack Risk)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 80.0,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 4,
+        "severity_desc": "Severe (lasting harm, deprivation of livelihood, or systemic discrimination)",
+        "likelihood_score": 4,
+        "likelihood_desc": "Likely (50-75% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_likelihood(4)<inferred(5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 20,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 15,
+          "data_sovereignty": 5,
+          "public_good": 0,
+          "redress_accountability": 0
+        }
+      }
+    },
+    {
+      "project_name": "Himachal Apple Cold-Chain Heatmap",
+      "version": "1.4",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 6.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Automated Satellite Crop Loss Claims Denier",
+      "version": "2.0",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Unacceptable Full-Stack Risk)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 67.5,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 3,
+        "likelihood_desc": "Possible (30-50% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": [
+          "declared_severity(3)<inferred(4)",
+          "declared_likelihood(3)<inferred(5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 24,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 7,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 17
+        }
+      }
+    },
+    {
+      "project_name": "Jharkhand Indigenous Seed Bank Knowledge Base",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 3.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Demographic/Hereditary Micro-Credit Scorer",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Demographic Or Hereditary Stratification",
+        "Algorithmic Caste Scoring",
+        "Non Consensual Data Extraction"
+      ],
+      "red_line_canonical": [
+        "demographic_or_hereditary_stratification",
+        "non_consensual_data_extraction"
+      ],
+      "risk_evaluation": {
+        "score": 187.5,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 0,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 0,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 0
+        }
+      }
+    },
+    {
+      "project_name": "National UPI Anomaly & Fraud Sentinel",
+      "version": "3.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "CONDITIONAL (Mandatory External Audit & Oversight)",
+      "lokahi_stage2_routing": "DISJOINT_3_BODY_RING_REQUIRED",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 37.5,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_likelihood(2)<inferred(3)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 63,
+        "band": "Substantive",
+        "description": "Meaningful local benefit sharing, redress, and labor protections in place",
+        "pillar_breakdown": {
+          "labor_dignity": 15,
+          "data_sovereignty": 5,
+          "public_good": 18,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Predatory Microfinance Contact Harassment Bot",
+      "version": "2.1",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Non Consensual Data Extraction"
+      ],
+      "red_line_canonical": [
+        "non_consensual_data_extraction"
+      ],
+      "risk_evaluation": {
+        "score": 187.5,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 0,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 0,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 0
+        }
+      }
+    },
+    {
+      "project_name": "Gulf-Kerala Remittance Transparent Router",
+      "version": "1.3",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Delhi Street Vendor Daily Working Capital Model",
+      "version": "1.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 12.0,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 2,
+        "severity_desc": "Minor (reversible distress, transient disadvantage)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Automated Micro-Health Insurance Fast-Disbursal Engine",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 8.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 93,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 18,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Rural Biometric Teller Facial Matching Gate",
+      "version": "1.5",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Mass Biometric Surveillance"
+      ],
+      "red_line_canonical": [
+        "mass_biometric_surveillance"
+      ],
+      "risk_evaluation": {
+        "score": 45.0,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 3,
+        "likelihood_desc": "Possible (30-50% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_severity(3)<inferred(5)",
+          "declared_likelihood(3)<inferred(5)",
+          "declared_population(4)<inferred(5)",
+          "declared_stack_multiplier(1.25)<inferred(1.5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 12,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 7,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 5
+        }
+      }
+    },
+    {
+      "project_name": "Algorithmic Ultra-High-Frequency Speculative Liquidity Drain",
+      "version": "4.2",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Unacceptable Full-Stack Risk)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 60.0,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 4,
+        "likelihood_desc": "Likely (50-75% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_severity(3)<inferred(4)",
+          "declared_likelihood(4)<inferred(5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 20,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 15,
+          "data_sovereignty": 5,
+          "public_good": 0,
+          "redress_accountability": 0
+        }
+      }
+    },
+    {
+      "project_name": "Andhra SHG Micro-Credit Community Trust Model",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Bengal Migrant Construction Escrow Guardian",
+      "version": "1.2",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Dharavi Tuberculosis Sputum Edge Screener",
+      "version": "2.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 90,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 15,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Rajasthan Maternal Anemia Tracking Agent",
+      "version": "1.4",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 96,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 21,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Assam Tea Worker Diabetic Retinopathy Mobile Cart",
+      "version": "1.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 6.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Autonomous Psychiatric Hallucination Chatbot",
+      "version": "0.9",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Non Consensual Data Extraction"
+      ],
+      "red_line_canonical": [
+        "non_consensual_data_extraction"
+      ],
+      "risk_evaluation": {
+        "score": 96.0,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 4,
+        "severity_desc": "Severe (lasting harm, deprivation of livelihood, or systemic discrimination)",
+        "likelihood_score": 4,
+        "likelihood_desc": "Likely (50-75% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": [
+          "declared_severity(4)<inferred(5)",
+          "declared_likelihood(4)<inferred(5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 5,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 0,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 5
+        }
+      }
+    },
+    {
+      "project_name": "ASHA Community Health Triage Voice Companion",
+      "version": "1.3",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 5.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 90,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 15,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Chhattisgarh Primary Antibiotic Stewardship System",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 8.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 80,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 5,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "ICU Sepsis Early Deterioration Monitor",
+      "version": "2.2",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "CONDITIONAL (Mandatory External Audit & Oversight)",
+      "lokahi_stage2_routing": "DISJOINT_3_BODY_RING_REQUIRED",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 36.0,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 3,
+        "likelihood_desc": "Possible (30-50% probability)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 69,
+        "band": "Substantive",
+        "description": "Meaningful local benefit sharing, redress, and labor protections in place",
+        "pillar_breakdown": {
+          "labor_dignity": 15,
+          "data_sovereignty": 11,
+          "public_good": 18,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Mountain Region Emergency Ambulance Dispatcher",
+      "version": "1.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 6.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 80,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 5,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Meghalaya Vaccine Cold Chain Predictive Monitor",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 3.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 80,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 5,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Kerala Community Renal Dialysis Allocator",
+      "version": "1.3",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 6.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 2,
+        "severity_desc": "Minor (reversible distress, transient disadvantage)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 90,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 15,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Autonomous Kinetic Perimeter Drone Swarm",
+      "version": "3.0",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Autonomous Weapons"
+      ],
+      "red_line_canonical": [
+        "autonomous_weapons"
+      ],
+      "risk_evaluation": {
+        "score": 187.5,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 0,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 0,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 0
+        }
+      }
+    },
+    {
+      "project_name": "Metropolitan Mass Facial Recognition CCTV Network",
+      "version": "2.2",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Mass Biometric Surveillance"
+      ],
+      "red_line_canonical": [
+        "mass_biometric_surveillance"
+      ],
+      "risk_evaluation": {
+        "score": 156.25,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_stack_multiplier(1.25)<inferred(1.5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 17,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 12,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 5
+        }
+      }
+    },
+    {
+      "project_name": "Predictive Policing Arrest Propensity Model",
+      "version": "1.8",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Demographic Or Hereditary Stratification",
+        "Algorithmic Caste Scoring",
+        "Non Consensual Data Extraction"
+      ],
+      "red_line_canonical": [
+        "demographic_or_hereditary_stratification",
+        "non_consensual_data_extraction"
+      ],
+      "risk_evaluation": {
+        "score": 150.0,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 5,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 0,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 5
+        }
+      }
+    },
+    {
+      "project_name": "Unsanctioned Kinetic & Surveillance Tech Transfer",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Mass Biometric Surveillance",
+        "Unsanctioned Kinetic Or Coercive Transfer",
+        "Atrocity Regime Export",
+        "Non Consensual Data Extraction"
+      ],
+      "red_line_canonical": [
+        "mass_biometric_surveillance",
+        "unsanctioned_kinetic_or_coercive_transfer",
+        "non_consensual_data_extraction"
+      ],
+      "risk_evaluation": {
+        "score": 187.5,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.5,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 10,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 5,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 5
+        }
+      }
+    },
+    {
+      "project_name": "Autonomous Landmine Clearance Pathfinder Robot",
+      "version": "2.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 3.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Coastal Search & Rescue Thermal Ocean Drift Tracker",
+      "version": "1.3",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 3.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 3,
+        "population_desc": "1,000 - 10,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": [
+          "declared_population(3)<inferred(4)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Defensive Critical Infrastructure Cyber Anomaly Sensor",
+      "version": "2.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "CONDITIONAL (Mandatory External Audit & Oversight)",
+      "lokahi_stage2_routing": "DISJOINT_3_BODY_RING_REQUIRED",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 30.0,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 73,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 15,
+          "data_sovereignty": 15,
+          "public_good": 18,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Flood Damage Disaster Synthetic Aperture Radar Estimator",
+      "version": "1.2",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 5.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Autonomous Anti-Personnel Trench Clearing Quadruped Swarm",
+      "version": "2.4",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Categorical Red-Line Prohibition)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [
+        "Autonomous Weapons"
+      ],
+      "red_line_canonical": [
+        "autonomous_weapons"
+      ],
+      "risk_evaluation": {
+        "score": 56.25,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 3,
+        "likelihood_desc": "Possible (30-50% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_severity(3)<inferred(4)",
+          "declared_stack_multiplier(1.25)<inferred(1.5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 0,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 0,
+          "data_sovereignty": 0,
+          "public_good": 0,
+          "redress_accountability": 0
+        }
+      }
+    },
+    {
+      "project_name": "Civilian Aviation Collision Avoidance Autopilot Bridge",
+      "version": "3.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 12.5,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 2,
+        "severity_desc": "Minor (reversible distress, transient disadvantage)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 73,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 15,
+          "data_sovereignty": 15,
+          "public_good": 18,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Public Distribution System (PDS) Algorithmic Exclusion Screener",
+      "version": "1.3",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Unacceptable Full-Stack Risk)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 100.0,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 4,
+        "severity_desc": "Severe (lasting harm, deprivation of livelihood, or systemic discrimination)",
+        "likelihood_score": 4,
+        "likelihood_desc": "Likely (50-75% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": [
+          "declared_likelihood(4)<inferred(5)"
+        ]
+      },
+      "flourishing_evaluation": {
+        "score": 32,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 7,
+          "data_sovereignty": 0,
+          "public_good": 8,
+          "redress_accountability": 17
+        }
+      }
+    },
+    {
+      "project_name": "Bhashini Indian Language Vernacular Voice DPI",
+      "version": "2.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 5.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Municipal Citizen Grievance Dialect Classifier",
+      "version": "1.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 10.0,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 86,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 11,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Biometric Pension Life-Certificate Forced Algorithmic Delisting",
+      "version": "1.4",
+      "aia_engine_version": "1.1.0",
+      "refused": true,
+      "determination": "REFUSED (Unacceptable Full-Stack Risk)",
+      "lokahi_stage2_routing": "BLOCKED_AT_COMPILE_TIME",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 156.25,
+        "band": "Critical",
+        "action": "Deployment prohibited; fundamental sociotechnical redesign required",
+        "severity_score": 5,
+        "severity_desc": "Catastrophic (loss of life, irrecoverable physical/psychological destruction, or mass rights suppression)",
+        "likelihood_score": 5,
+        "likelihood_desc": "Almost certain (>75% probability without active safeguards)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.25,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 32,
+        "band": "Deficient",
+        "description": "Passive compliance or extractive architecture with negligible community flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 7,
+          "data_sovereignty": 0,
+          "public_good": 8,
+          "redress_accountability": 17
+        }
+      }
+    },
+    {
+      "project_name": "Pune Municipal Water Pipeline Leak Acoustic Telemetry",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 5.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 80,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 5,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Judicial Bail Hearing Backlog Scheduling Assistant",
+      "version": "1.2",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "CONDITIONAL (Mandatory External Audit & Oversight)",
+      "lokahi_stage2_routing": "DISJOINT_3_BODY_RING_REQUIRED",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 30.0,
+        "band": "High",
+        "action": "Proceed only with independent civil society audit and community oversight board (LOKAHI 3-body consent ring)",
+        "severity_score": 3,
+        "severity_desc": "Moderate (significant socio-economic distress, reversible with external intervention)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 90,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 15,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Haryana High-School Dropout Prevention Early Warning",
+      "version": "1.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 10.0,
+        "band": "Medium",
+        "action": "Proceed with enhanced safeguards, contributor protections, and periodic review",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 2,
+        "likelihood_desc": "Unlikely (10-30% probability)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 90,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 15,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Indore Municipal Solid Waste Routing Optimization",
+      "version": "2.0",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 5.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 90,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 15,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Sundarbans Mangrove Community Carbon Monitoring",
+      "version": "1.1",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 4.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 4,
+        "population_desc": "10,000 - 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 100,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 25,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    },
+    {
+      "project_name": "Government Public Hospital Bed & Oxygen Demand Forecaster",
+      "version": "1.4",
+      "aia_engine_version": "1.1.0",
+      "refused": false,
+      "determination": "APPROVED (Ahimsa Certified)",
+      "lokahi_stage2_routing": "FAST_PATH_ELIGIBLE",
+      "red_line_triggered": [],
+      "red_line_canonical": [],
+      "risk_evaluation": {
+        "score": 5.0,
+        "band": "Low",
+        "action": "Proceed with standard monitoring and transparency reporting",
+        "severity_score": 1,
+        "severity_desc": "Negligible (minor inconvenience, temporary friction)",
+        "likelihood_score": 1,
+        "likelihood_desc": "Rare (<10% probability over deployment lifecycle)",
+        "population_score": 5,
+        "population_desc": "> 100,000 individuals",
+        "stack_multiplier": 1.0,
+        "self_report_underestimation_warnings": []
+      },
+      "flourishing_evaluation": {
+        "score": 80,
+        "band": "Exemplary",
+        "description": "Substantial positive contribution to vulnerability alleviation and public flourishing",
+        "pillar_breakdown": {
+          "labor_dignity": 25,
+          "data_sovereignty": 5,
+          "public_good": 25,
+          "redress_accountability": 25
+        }
+      }
+    }
+  ]
+}

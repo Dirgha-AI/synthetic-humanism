@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.lokahi-ledger.jsonl
+Lokahi - Foresight*/
+*.zip
+MASTER_FUNDING_GRANTS_FELLOWSHIPS_PLAYBOOK*.md
+02_ACADEMIC_PAPERS/Audit-and-Academic-Grant-Strategy-Plan*.md
+04_COMPUTATIONAL_ENGINE/lokahi/docs/GRANT_APPLICATION.md
+06_REFERENCE_CORPUS/a16z/
+06_REFERENCE_CORPUS/deepmind_institute/

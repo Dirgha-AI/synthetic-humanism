@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:06,879
+For thousands of years we've built things to outlast us, to outlive us. We built
+
+2
+00:00:06,879 --> 00:00:16,079
+grand monuments and architecture to protect our knowledge, to pass on the knowledge and discoveries
+
+3
+00:00:16,079 --> 00:00:23,440
+that we made. It was not just about culture, it was about the transfer of knowledge from our brain
+
+4
+00:00:23,440 --> 00:00:31,039
+to a solid material, to a solid structure. That's why we built, and that's why we built things,
+
+5
+00:00:31,039 --> 00:00:38,159
+right? A satellite or a humanoid. We didn't build robots in vacuum, they are a product,
+
+6
+00:00:38,159 --> 00:00:44,000
+they are a culmination of thousands of years of work. When we look at the history of knowledge
+
+7
+00:00:44,000 --> 00:00:50,560
+and how we've come so far, what has been the guiding principle? What's the purpose behind evolution?
+
+8
+00:00:50,560 --> 00:00:58,320
+Why are we building cities on earth? Did an alien race come to earth and built us so that we could
+
+9
+00:00:58,320 --> 00:01:04,239
+go to Mars and terraform it? Is that the purpose? I don't know, what's the purpose of life?
+
+10
+00:01:04,239 --> 00:01:11,680
+What's the purpose of intelligence? I think these questions have become more relevant to us than ever.
+
+11
+00:01:12,480 --> 00:01:19,920
+There's an epidemic of loneliness, of depression, of mental health crises, and we're going to
+
+12
+00:01:20,799 --> 00:01:28,719
+address them, not just through medicine, but also through giving purpose a sense of direction,
+
+13
+00:01:29,359 --> 00:01:39,200
+to human beings who now feel lost. For the longest time, work has given us a sense of direction,
+
+14
+00:01:39,200 --> 00:01:48,000
+a sense of meaning, identity, but now, even that identity is under attack. Let's take an
+
+15
+00:01:48,000 --> 00:01:54,879
+academia, for example. Let's take math, chat, GPT, just released around 700 papers,
+
+16
+00:01:55,840 --> 00:02:05,439
+solutions to 700 unsolved mathematical problems. Math is cooked and the academia, the gatekeepers,
+
+17
+00:02:05,439 --> 00:02:14,879
+the old guard, they're not happy about it, because it puts their existence under attack,
+
+18
+00:02:14,879 --> 00:02:21,360
+the reward incentives that are in place to create knowledge, to advance knowledge is
+
+19
+00:02:22,319 --> 00:02:30,800
+now under attack. Now, it's no longer relevant because if an artificial machine, if you can put together
+
+20
+00:02:31,280 --> 00:02:39,280
+like the most advanced computational machines and let it lose, let it focus on a problem, it will
+
+21
+00:02:39,280 --> 00:02:45,599
+solve it, it will try to find solution and it will solve it. So, if you look at human beings as
+
+22
+00:02:46,400 --> 00:02:54,080
+biological computers, as thinking machines, which we are, there's no way to connect, the whole
+
+23
+00:02:54,080 --> 00:03:00,879
+process of creation of collaboration is very difficult for us because this language, we need to
+
+24
+00:03:01,840 --> 00:03:08,400
+write things out. There's a lot of steps which, and it takes generations, it's not fast,
+
+25
+00:03:08,479 --> 00:03:18,000
+but with agents, with AI, that process can accelerate at an exponential read, and that's what we're
+
+26
+00:03:18,000 --> 00:03:25,280
+witnessing now. And now that we have this power, now that all of us have access
+
+27
+00:03:26,400 --> 00:03:30,800
+to this powerful machines, to this powerful thinking machines, now the question is
+
+28
+00:03:31,680 --> 00:03:39,280
+is not like, can AI think is this thinking? The question is, can we build robots, we build robots,
+
+29
+00:03:39,280 --> 00:03:45,439
+you know, they're dancing in China, our androids, the humanoids are doing things crazy stunts,
+
+30
+00:03:45,439 --> 00:03:54,240
+right? Which wants belong to the realm of science fiction. When I was a kid, like I wanted a dictionary
+
+31
+00:03:54,240 --> 00:04:02,960
+with voice, I wanted my voice to automatically turn into text, and I felt like if I could talk,
+
+32
+00:04:04,639 --> 00:04:13,520
+I could write, it would be so easy to write a novel, and now that the tech is here,
+
+33
+00:04:15,520 --> 00:04:22,399
+I had the intention, but where's the time? We don't think like this time, we're always in a rush,
+
+34
+00:04:23,360 --> 00:04:36,910
+and also the whole, the purpose of writing seems to have lost as we chase social algorithms,
+
+35
+00:04:37,790 --> 00:04:46,110
+as we chase virality, as we chase likes and hits. For me, I've struggled with this video,
+
+36
+00:04:46,110 --> 00:04:52,589
+I've struggled with the script because there's this sense of algorithm, this is what algorithm will
+
+37
+00:04:52,670 --> 00:04:58,750
+like, and this is what the structure needs to be, and this is how you want to speak, and the topic,
+
+38
+00:04:58,750 --> 00:05:05,230
+you know, there's how to and you need to solve it, those points, genes, I don't know, angle every five
+
+39
+00:05:05,230 --> 00:05:13,310
+seconds or so, I understand the mechanics and the production side of things, but that's not how I live,
+
+40
+00:05:13,310 --> 00:05:21,870
+right? This deep thinking, this making, you know, arriving at a discovery, at an insight,
+
+41
+00:05:23,470 --> 00:05:33,149
+through the slow boring biological process, you know, which involves maybe sleeping, eating,
+
+42
+00:05:33,149 --> 00:05:39,310
+walking, thinking, talking, watching videos, we're not machines, right? We cannot just like, you know,
+
+43
+00:05:40,430 --> 00:05:45,550
+browse the web, like, you know, on the go, yes, we can do that, but while we're thinking, it's like
+
+44
+00:05:45,550 --> 00:05:51,709
+we're trying to use our neural connections, all the memory that we have, everything that we've read,
+
+45
+00:05:51,709 --> 00:05:56,910
+and that's where reading becomes so important, right? If you haven't read, if you haven't exposed
+
+46
+00:05:56,910 --> 00:06:03,470
+yourself to the material, like that, that neural pathway, you know, that bank, your neural bank is still
+
+47
+00:06:03,470 --> 00:06:10,750
+empty, and those connections, you know, they're not as strong or deep, and to deepen those connections,
+
+48
+00:06:10,750 --> 00:06:16,589
+we need to think, we need to be able to use our muscle, we need to be able to use our memory, and
+
+49
+00:06:17,550 --> 00:06:24,430
+yes, AI is there, it's going to do a lot, many things, but we need to define, like, what those
+
+50
+00:06:24,430 --> 00:06:31,550
+things are going to be, and what's our standard, like, what do we want from us, from these machines,
+
+51
+00:06:31,550 --> 00:06:40,430
+what do we want from our billionaires, and powerful state, you know, machinery, like, all the
+
+52
+00:06:40,509 --> 00:06:46,990
+institutions that we're building, like, what do we want from them, and how do we demand that, and how do we
+
+53
+00:06:46,990 --> 00:06:55,149
+get that?
+

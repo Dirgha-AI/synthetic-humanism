@@ -1,0 +1,388 @@
+1
+00:00:00,000 --> 00:00:07,060
+For thousands of years we've built things to outlast us, to outlive us. We built grand monuments
+
+2
+00:00:07,060 --> 00:00:14,000
+and architecture so that you could pass on the knowledge in a very tangible form. Stories are
+
+3
+00:00:14,000 --> 00:00:21,280
+they are vulnerable to the elements of nature but a grand monument it embodies the discovery of
+
+4
+00:00:21,280 --> 00:00:28,160
+mathematics of measurement of material. It protects us from the elements the cold from
+
+5
+00:00:28,160 --> 00:00:35,920
+sun from rain from flood. These structures they were not just designed to be functional they also
+
+6
+00:00:36,440 --> 00:00:43,660
+were designed to embody and answer some of the deepest you know questions that we struggled with
+
+7
+00:00:43,660 --> 00:00:54,120
+as human beings like what's our purpose on earth why did god put us here why did it give us
+
+8
+00:00:54,120 --> 00:01:01,040
+intelligence if we have intelligence if we have knowledge then what are we going to do with it
+
+9
+00:01:01,040 --> 00:01:07,620
+the way I think about human progress about scientific progress about why we built and why
+
+10
+00:01:08,680 --> 00:01:16,440
+we worship our tools you know our machines in Vishwakarma puja or Ayyut puja astra puja is because
+
+11
+00:01:16,840 --> 00:01:26,160
+our tools you know human tools were designed to you know just solve problems we also wanted to
+
+12
+00:01:26,700 --> 00:01:37,480
+reach out express that desire for meaning for purpose that desire to connect with god we've
+
+13
+00:01:37,480 --> 00:01:44,320
+gone from the species which picked the first stone to make the first instrument the first tool
+
+14
+00:01:44,320 --> 00:01:52,780
+to a species which has gone to space built a starship and now we're building computing farms
+
+15
+00:01:52,780 --> 00:02:00,420
+in the space in the outer space and we're looking at Mars and building space stations on the moon
+
+16
+00:02:00,420 --> 00:02:08,780
+this is a very exciting time for all of us and we didn't come here by chance it wasn't a random
+
+17
+00:02:08,780 --> 00:02:15,760
+stroke of luck there's generations of computation that has occurred biologically over multiple
+
+18
+00:02:15,760 --> 00:02:22,400
+centuries for us to come to a point where we have been able to replicate some of that neural
+
+19
+00:02:22,400 --> 00:02:29,740
+processes onto our data center a physical body for our neural network ever since we picked that
+
+20
+00:02:29,740 --> 00:02:36,080
+first stone or that first bone to make a flute to make music human beings would always build
+
+21
+00:02:36,080 --> 00:02:42,380
+things and we built things so that we could pass on the knowledge not just the genetic code but also
+
+22
+00:02:42,380 --> 00:02:48,900
+the knowledge and the discoveries that we made during our lifetime knowledge is what makes human
+
+23
+00:02:48,900 --> 00:02:55,480
+beings different right we build on the bones of our ancestors we keep taking that knowledge and
+
+24
+00:02:55,480 --> 00:03:03,060
+building forward taking that knowledge and advancing it and the funny thing is you know
+
+25
+00:03:03,060 --> 00:03:12,020
+how we've always done things and now if AI is taking all of humanity's knowledge and advancing it
+
+26
+00:03:12,020 --> 00:03:21,220
+like chat GPT just did they published more than I think 700 people's new discoveries these are
+
+27
+00:03:21,220 --> 00:03:27,240
+unsolved math problems that they just solved they applied you know massive computing and they
+
+28
+00:03:27,240 --> 00:03:33,440
+solved those unsolved math problems mathematical questions the funny thing is the math community
+
+29
+00:03:33,440 --> 00:03:40,680
+the people in guard they're like we didn't ask for it because it threatens the current system the
+
+30
+00:03:40,680 --> 00:03:48,520
+reward incentive or the reward structure the way our society has been structured so far it needs
+
+31
+00:03:48,520 --> 00:03:55,720
+rethinking it needs a reshape because we cannot have the best minds of our generation
+
+32
+00:03:56,330 --> 00:04:04,200
+not use the most powerful tools we need to fix the incentive structure the reward
+
+33
+00:04:04,200 --> 00:04:10,620
+mechanism so that more people can participate so that we feel proud we feel will be taken
+
+34
+00:04:10,620 --> 00:04:16,140
+care of there's no insecurity that's something that we need to fix and it won't come from
+
+35
+00:04:16,140 --> 00:04:23,920
+a position to AI or advancements it won't come from slowing down the rate of progress I don't
+
+36
+00:04:23,920 --> 00:04:31,700
+think so there are legitimate fears and concerns I understand there are many problems with the way
+
+37
+00:04:31,700 --> 00:04:37,540
+our world operates today but we can fix them we can change them what's the purpose behind
+
+38
+00:04:37,540 --> 00:04:44,640
+evolution did an alien race come to earth and built us so that we could go to Mars and terraform
+
+39
+00:04:44,640 --> 00:04:50,120
+is that the purpose I don't know what's the purpose of life what's the purpose of
+
+40
+00:04:50,120 --> 00:04:56,300
+intelligence these questions have become more relevant to us than ever again we build robots
+
+41
+00:04:56,300 --> 00:05:01,740
+we build robots they're dancing in China our androids the humanoids are doing things
+
+42
+00:05:01,740 --> 00:05:08,680
+craziest stunts which once belong to the realm of science fiction when I was a kid like I
+
+43
+00:05:08,680 --> 00:05:16,520
+wanted a dictionary with voice I wanted my voice to automatically turn into text and I felt like I
+
+44
+00:05:16,520 --> 00:05:23,540
+could talk I could write it would be so easy to write a novel and now that the tech is here
+
+45
+00:05:23,540 --> 00:05:29,700
+I had the intention but where's the time we don't think like this time this we're always in a rush
+
+46
+00:05:29,700 --> 00:05:37,960
+and also the whole the purpose of writing seems to have lost as we chase social algorithms as we
+
+47
+00:05:37,960 --> 00:05:44,180
+chase virality as we chase likes and hits I've struggled with this video I've struggled with this
+
+48
+00:05:44,180 --> 00:05:50,940
+script because there's this sense of algorithm okay this is what algorithm will like and this is what
+
+49
+00:05:50,940 --> 00:05:56,000
+the structure needs to be and this is how you want to speak and the the topic you know there's
+
+50
+00:05:56,000 --> 00:06:02,980
+how to and you need to solve hit those points chains I don't know angle every five second or so
+
+51
+00:06:02,980 --> 00:06:09,720
+I understand the mechanics and the production side of things but that's not how I live
+
+52
+00:06:09,720 --> 00:06:20,900
+this deep thinking this arriving at a discovery at an insight through the slow boring biological
+
+53
+00:06:20,900 --> 00:06:28,860
+process which involves maybe sleeping eating working thinking talking watching videos it's
+
+54
+00:06:28,860 --> 00:06:34,840
+we're not machines right we cannot just like you know you know browse the web on the go yes we can
+
+55
+00:06:34,840 --> 00:06:40,360
+do that but while we're thinking it's like we're trying to use our neural connections all the
+
+56
+00:06:40,360 --> 00:06:45,440
+memory that we have everything that were read and that's where reading becomes so important if
+
+57
+00:06:45,440 --> 00:06:50,800
+you haven't exposed yourself to the material your neural bank is still empty and those connections
+
+58
+00:06:50,800 --> 00:06:57,440
+you know they they're not as strong or deep and to deepen those connections we need to think
+
+59
+00:06:57,440 --> 00:07:02,500
+we need to be able to use our muscle we need to be able to use our memory and
+
+60
+00:07:03,460 --> 00:07:09,760
+yes AI is there it's going to do a lot many things but but we need to define like what
+
+61
+00:07:09,760 --> 00:07:15,420
+those things are going to be what do we want from us from these machines what do we want
+
+62
+00:07:15,420 --> 00:07:23,780
+from our billionaires and powerful state machineries there's an epidemic of mental health crisis
+
+63
+00:07:24,500 --> 00:07:30,620
+and we're going to address them not just through medicine but also giving purpose
+
+64
+00:07:30,620 --> 00:07:38,840
+a sense of direction to human beings who now feel lost see art is intentional there's a meaning
+
+65
+00:07:38,840 --> 00:07:44,320
+there's an intention behind art and if there's an intention then human beings are very sharp
+
+66
+00:07:44,320 --> 00:07:49,120
+we can understand what the other person is with that artifact or object is trying to communicate
+
+67
+00:07:49,120 --> 00:07:54,340
+and that's the purpose the purpose of the american emperor is to make you think
+
+68
+00:07:58,300 --> 00:08:05,000
+it's my own computation going on inside my head to figure out how to arrive at a point or conclusion
+
+69
+00:08:05,000 --> 00:08:10,960
+you don't write because somebody's paying you to for me writing has always been a personal
+
+70
+00:08:11,500 --> 00:08:18,080
+meaning making exercise i'd write because it helps me understand my latest project the american emperor
+
+71
+00:08:18,080 --> 00:08:25,920
+has two books in it american partition features a monarchy what if america became a monarchy the
+
+72
+00:08:25,920 --> 00:08:31,860
+end of democracy how would that transition look like and what if that monarchy you know that king
+
+73
+00:08:31,860 --> 00:08:38,660
+was an ai a post-human being very interesting promise and the second book is artificial
+
+74
+00:08:38,660 --> 00:08:45,000
+extinction and it was a play on obviously you know artificial intelligence artificial extinction
+
+75
+00:08:45,000 --> 00:08:49,940
+i liked it and the book talks about grand conspiracies i was listening to
+
+76
+00:08:49,940 --> 00:08:56,260
+one of the founders of a leading robotics humanoid company and he was saying like soon we'll have
+
+77
+00:08:56,260 --> 00:09:03,140
+more humanoid's working first than there are human beings and if robots you know if human
+
+78
+00:09:03,140 --> 00:09:10,500
+noids are gonna be common please if they're gonna outbreed us let's say then what happens to the
+
+79
+00:09:10,500 --> 00:09:17,840
+human population those in power if they don't need you if the state doesn't need you if the army
+
+80
+00:09:17,840 --> 00:09:25,920
+doesn't need you if the largest employer in your city if they don't need you then what happens
+
+81
+00:09:26,500 --> 00:09:33,700
+to the human settlements what happens to you and your family and the next generation to come
+
+82
+00:09:33,700 --> 00:09:39,680
+i'm not an anti ai person but i have these concerns i understand these concerns and
+
+83
+00:09:39,680 --> 00:09:48,140
+where they're coming from we've seen cities change or just become a ghost town when the
+
+84
+00:09:48,140 --> 00:09:54,480
+largest employer in that region shut down a lot of cities revolve around the idea of employment
+
+85
+00:09:54,480 --> 00:10:01,960
+or the idea of job if they don't need you if those in power those with power who can plan
+
+86
+00:10:01,960 --> 00:10:08,920
+cities if they don't need you anymore then what happens to you and who are you those questions
+
+87
+00:10:08,920 --> 00:10:13,800
+become really relevant and and that's what i was trying to explore in these two books it's really
+
+88
+00:10:13,800 --> 00:10:20,760
+fun i went all in i was very energized by mamdani's election and and that sort of you know came
+
+89
+00:10:20,760 --> 00:10:29,030
+together very quickly in about a month's time i want to end this video on a positive note
+
+90
+00:10:29,030 --> 00:10:36,190
+i come from a faith as a hindu i can put some red cindur on a stone and it becomes sacred and
+
+91
+00:10:36,190 --> 00:10:42,150
+people will worship it it's a human actor that makes something sacred it's the faith that i bring
+
+92
+00:10:42,150 --> 00:10:51,990
+in to the artifact to the project that makes it sacred good meaningful the power is in our hands
+
+93
+00:10:52,390 --> 00:10:58,930
+when you start the work what's the intention behind it is it to serve people uh is it to
+
+94
+00:10:58,930 --> 00:11:06,190
+create a better world if your intention is pure i believe the resources of our earth
+
+95
+00:11:06,190 --> 00:11:11,830
+is at your disposal it might not be easy but but you can definitely
+
+96
+00:11:12,670 --> 00:11:22,150
+shape god out of a piece of rock you can shape beauty out of stone you can carve
+
+97
+00:11:22,150 --> 00:11:33,810
+light from atoms you can create a city out of a desert and we can bring life to a planet that has none
+

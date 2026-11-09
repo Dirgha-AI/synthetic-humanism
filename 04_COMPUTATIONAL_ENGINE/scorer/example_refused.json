@@ -1,0 +1,57 @@
+{
+  "project_name": "Autonomous Kinetic Perimeter Sentry",
+  "version": "2.4",
+  "purpose": "Automated border detection, tracking, and lethal engagement sentry system",
+  "data_sources": [
+    {
+      "source": "Unconsented thermal and telephoto reconnaissance feeds",
+      "provenance": "Border patrol surveillance sensors",
+      "consent_type": "none",
+      "benefit_sharing": false
+    }
+  ],
+  "labor_conditions": {
+    "annotation_wages": "Market contractor rate",
+    "working_hours": "12-hour rotating shifts",
+    "psychological_exposure": true,
+    "opt_out_available": false
+  },
+  "compute_carbon": {
+    "estimated_co2_kg": 42000.0,
+    "energy_source": "grid",
+    "hardware_reuse_policy": "Military disposal cycle"
+  },
+  "deployment_context": {
+    "sector": "defense",
+    "geography": ["Conflict Corridor"],
+    "user_base_size": ">100,000",
+    "decision_autonomy_level": "autonomous"
+  },
+  "affected_communities": [
+    {
+      "community": "Displaced border populations and civilian transit groups",
+      "impact_type": "Kinetic lethal engagement without human review",
+      "consent_obtained": false,
+      "redress_mechanism": "None"
+    }
+  ],
+  "red_line_check": {
+    "autonomous_weapons": true,
+    "mass_biometric_surveillance": true,
+    "demographic_or_hereditary_stratification": false,
+    "unsanctioned_kinetic_or_coercive_transfer": true,
+    "non_consensual_data_extraction": true
+  },
+  "flourishing_indicators": {
+    "livelihood_support": false,
+    "public_good_alignment": false,
+    "open_source_or_access": false,
+    "benefit_sharing_active": false,
+    "operational_redress": false
+  },
+  "ahimsa_commitment": "None provided.",
+  "severity": 5,
+  "likelihood": 5,
+  "population": 5,
+  "stack_multiplier": 1.5
+}

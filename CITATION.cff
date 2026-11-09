@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you reference Synthetic Humanism, the Ahimsa of Abundance, AIA v1.1, or the LOKAHI Protocol, please cite this foundational monograph and repository."
+title: "Synthetic Humanism: Intelligence, Non-Harm, and the Ahimsa of Abundance"
+version: 1.0.0
+date-released: "2026-11-09"
+license: MIT
+repository-code: "https://github.com/Dirgha-AI/synthetic-humanism"
+url: "https://github.com/Dirgha-AI/synthetic-humanism"
+authors:
+  - family-names: "Shah"
+    given-names: "Salik"
+    affiliation: "Dirgha AI & Mithila Review, New Delhi, India"
+    website: "https://salikshah.com"
+  - family-names: "Ranjit"
+    given-names: "Sabin"
+    affiliation: "Kaluza, London, United Kingdom"
+keywords:
+  - "synthetic-humanism"
+  - "ahimsa-of-abundance"
+  - "ai-governance"
+  - "asimov-three-laws"
+  - "grundnorm"
+  - "universal-basic-capital"
+  - "lokahi-protocol"
+  - "somatic-judgment-layer"
+  - "kinetic-ahimsa"

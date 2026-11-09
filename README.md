@@ -1,7 +1,18 @@
-# SYNTHETIC HUMANISM
-### *Intelligence, Non-Harm, and the Ahimsa of Abundance*
+<h1 align="center">SYNTHETIC HUMANISM</h1>
+<h3 align="center"><em>Intelligence, Non-Harm, and the Ahimsa of Abundance</em></h3>
 
-> ## **"Intelligence, biological or synthetic, shall strive to cause no harm. Synthetic humanism applies intelligence toward the ahimsa of abundance."**
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20%2F%20Apache--2.0-blue.svg" alt="License: MIT / Apache-2.0"></a>
+  <a href="https://github.com/Dirgha-AI/synthetic-humanism/actions/workflows/ci.yml"><img src="https://github.com/Dirgha-AI/synthetic-humanism/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="04_COMPUTATIONAL_ENGINE/tests/test_scorer.py"><img src="https://img.shields.io/badge/unit%20tests-56%20passed-brightgreen.svg" alt="Unit Tests: 56 passed"></a>
+  <a href="04_COMPUTATIONAL_ENGINE/benchmark/run_historical_disasters.py"><img src="https://img.shields.io/badge/historical%20disasters-20%2F20%20caught-orange.svg" alt="Historical Disasters: 20/20 caught"></a>
+  <a href="https://github.com/Dirgha-AI/ahimsa-ai"><img src="https://img.shields.io/badge/stage%201-AIA%20v1.1-teal.svg" alt="Stage 1: AIA v1.1"></a>
+  <a href="https://github.com/Dirgha-AI/lokahi"><img src="https://img.shields.io/badge/stage%202-LOKAHI%20v0.1.2-purple.svg" alt="Stage 2: LOKAHI v0.1.2"></a>
+</p>
+
+<p align="center">
+  <strong>"Intelligence, biological or synthetic, shall strive to cause no harm. Synthetic humanism applies intelligence toward the ahimsa of abundance."</strong>
+</p>
 
 ---
 

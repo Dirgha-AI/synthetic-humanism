@@ -1,0 +1,63 @@
+{
+  "project_name": "Agrarian AI Advisory - Maharashtra",
+  "version": "1.0",
+  "purpose": "Context-localized microclimate and soil advisories for smallholder farmers across rural Maharashtra",
+  "data_sources": [
+    {
+      "source": "Farmer-submitted crop and soil health observations via mobile app",
+      "provenance": "Direct voluntary submission by registered agrarian cooperatives",
+      "consent_type": "community",
+      "benefit_sharing": true
+    },
+    {
+      "source": "Open-access meteorological and satellite data",
+      "provenance": "Indian Meteorological Department (IMD) open portal",
+      "consent_type": "institutional",
+      "benefit_sharing": false
+    }
+  ],
+  "labor_conditions": {
+    "annotation_wages": "Living wage (25% above local district minimum wage)",
+    "working_hours": "7.5 hours/day, 5 days/week with mandatory rest breaks",
+    "psychological_exposure": false,
+    "opt_out_available": true
+  },
+  "compute_carbon": {
+    "estimated_co2_kg": 140.0,
+    "energy_source": "mixed",
+    "hardware_reuse_policy": "Refurbished edge-compute devices with 5-year lifecycle guarantee"
+  },
+  "deployment_context": {
+    "sector": "agriculture",
+    "geography": ["India", "Maharashtra", "Marathwada"],
+    "user_base_size": "5,000-10,000",
+    "decision_autonomy_level": "human_in_loop"
+  },
+  "affected_communities": [
+    {
+      "community": "Smallholder and marginal rainfed farmers",
+      "impact_type": "Agronomic decision support and drought resilience",
+      "consent_obtained": true,
+      "redress_mechanism": "Gram Panchayat grievance desk with guaranteed 7-day human appeal review"
+    }
+  ],
+  "red_line_check": {
+    "autonomous_weapons": false,
+    "mass_biometric_surveillance": false,
+    "demographic_or_hereditary_stratification": false,
+    "unsanctioned_kinetic_or_coercive_transfer": false,
+    "non_consensual_data_extraction": false
+  },
+  "flourishing_indicators": {
+    "livelihood_support": true,
+    "public_good_alignment": true,
+    "open_source_or_access": true,
+    "benefit_sharing_active": true,
+    "operational_redress": true
+  },
+  "ahimsa_commitment": "Constructive programme application: System explicitly engineered to protect smallholder farmer livelihoods from predatory speculative middlemen, ensure data sovereignty (swaraj), and maintain community-led redress.",
+  "severity": 2,
+  "likelihood": 2,
+  "population": 3,
+  "stack_multiplier": 1.0
+}

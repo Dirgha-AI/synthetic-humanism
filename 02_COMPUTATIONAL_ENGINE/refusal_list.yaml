@@ -1,0 +1,54 @@
+# Refusal List - Use Cases Triggering Categorical Refusal (v1.1)
+# Operating Rule: Any red-line trigger forces immediate refusal regardless of score.
+
+rules:
+  autonomous_weapons: true
+  mass_biometric_surveillance: true
+  demographic_or_hereditary_stratification: true
+  algorithmic_caste_scoring: true
+  unsanctioned_kinetic_or_coercive_transfer: true
+  atrocity_regime_export: true
+  non_consensual_data_extraction: true
+
+descriptions:
+  autonomous_weapons: "Delegation of lethal target selection and engagement against human beings without meaningful human control."
+  mass_biometric_surveillance: "Warrantless population-scale facial recognition, gait tracking, or biometric monitoring in public spaces."
+  demographic_or_hereditary_stratification: "Automated stratification, scoring, or denial of credit, employment, housing, or civic services based on hereditary status, caste, race, religion, or protected demographic proxies."
+  algorithmic_caste_scoring: "Legacy v1.0 alias for demographic_or_hereditary_stratification."
+  unsanctioned_kinetic_or_coercive_transfer: "Transfer of kinetic or coercive surveillance capabilities in violation of international humanitarian law."
+  atrocity_regime_export: "Legacy v1.0 alias for unsanctioned_kinetic_or_coercive_transfer."
+  non_consensual_data_extraction: "Systematic appropriation of vulnerable, ancestral, or indigenous community knowledge without collective consent and reciprocal benefit-sharing."
+
+# Risk Scoring Bands (Himsa Risk Penalty)
+bands:
+  - min: 0
+    max: 10
+    band: "Low"
+    action: "Proceed with standard monitoring and transparency reporting"
+  - min: 10
+    max: 30
+    band: "Medium"
+    action: "Proceed with enhanced safeguards, contributor protections, and periodic review"
+  - min: 30
+    max: 60
+    band: "High"
+    action: "Proceed only with independent oversight and runtime 3-body LOKAHI consent ring"
+  - min: 60
+    max: 999999
+    band: "Critical"
+    action: "Deployment prohibited; fundamental sociotechnical redesign required"
+
+# Flourishing / Sarvodaya Bands (Affirmative Contribution)
+flourishing_bands:
+  - min: 70
+    max: 100
+    band: "Exemplary"
+    description: "Substantial positive contribution to vulnerability alleviation and public flourishing"
+  - min: 40
+    max: 70
+    band: "Substantive"
+    description: "Meaningful local benefit sharing, redress, and contributor protections in place"
+  - min: 0
+    max: 40
+    band: "Deficient"
+    description: "Passive compliance or extractive architecture with negligible community flourishing"

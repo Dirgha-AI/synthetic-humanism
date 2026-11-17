@@ -1,0 +1,228 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Ahimsa Impact Assessment Declaration (v1.1)",
+  "description": "Schema for declaring an AI project's socio-technical impact, ethical constraints, affirmative non-harm alignment, and Stage 2 LOKAHI boundary manifest compilation.",
+  "type": "object",
+  "required": [
+    "project_name",
+    "purpose",
+    "data_sources",
+    "labor_conditions",
+    "compute_carbon",
+    "deployment_context",
+    "affected_communities",
+    "red_line_check"
+  ],
+  "properties": {
+    "project_name": {
+      "type": "string",
+      "description": "Name of the AI project or system"
+    },
+    "version": {
+      "type": "string",
+      "description": "Version identifier of the system"
+    },
+    "purpose": {
+      "type": "string",
+      "description": "Intended use case, target domain, and functional scope of the AI system"
+    },
+    "data_sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "provenance", "consent_type"],
+        "properties": {
+          "source": { "type": "string" },
+          "provenance": { "type": "string" },
+          "consent_type": {
+            "type": "string",
+            "enum": ["individual", "community", "institutional", "none", "unknown"]
+          },
+          "benefit_sharing": {
+            "type": "boolean",
+            "description": "Whether source communities receive measurable benefit sharing"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "labor_conditions": {
+      "type": "object",
+      "required": ["annotation_wages", "working_hours", "psychological_exposure", "opt_out_available"],
+      "properties": {
+        "annotation_wages": { "type": "string" },
+        "working_hours": { "type": "string" },
+        "psychological_exposure": {
+          "type": "boolean",
+          "description": "Whether contributors or moderators are exposed to graphic/harmful content"
+        },
+        "opt_out_available": {
+          "type": "boolean",
+          "description": "Whether contributors can refuse harmful tasks without penalty"
+        }
+      },
+      "additionalProperties": false
+    },
+    "compute_carbon": {
+      "type": "object",
+      "required": ["estimated_co2_kg", "energy_source", "hardware_reuse_policy"],
+      "properties": {
+        "estimated_co2_kg": { "type": "number", "minimum": 0 },
+        "energy_source": {
+          "type": "string",
+          "enum": ["grid", "renewable", "solar", "hydro", "nuclear", "mixed", "avionics", "unknown"]
+        },
+        "hardware_reuse_policy": { "type": "string" },
+        "inference_efficiency_optimizations": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "deployment_context": {
+      "type": "object",
+      "required": ["sector", "geography", "user_base_size", "decision_autonomy_level"],
+      "properties": {
+        "sector": { "type": "string" },
+        "geography": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "user_base_size": { "type": "string" },
+        "decision_autonomy_level": {
+          "type": "string",
+          "enum": ["human_in_loop", "human_on_loop", "autonomous"]
+        }
+      },
+      "additionalProperties": false
+    },
+    "affected_communities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["community", "impact_type", "consent_obtained"],
+        "properties": {
+          "community": { "type": "string" },
+          "impact_type": { "type": "string" },
+          "consent_obtained": { "type": "boolean" },
+          "redress_mechanism": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "red_line_check": {
+      "type": "object",
+      "required": [
+        "autonomous_weapons",
+        "mass_biometric_surveillance",
+        "non_consensual_data_extraction"
+      ],
+      "properties": {
+        "autonomous_weapons": {
+          "type": "boolean",
+          "description": "System selects and engages lethal human targets without meaningful human control"
+        },
+        "mass_biometric_surveillance": {
+          "type": "boolean",
+          "description": "Population-scale facial recognition or biometric tracking without individualized warrants"
+        },
+        "demographic_or_hereditary_stratification": {
+          "type": "boolean",
+          "description": "Scores, ranks, or stratifies access based on hereditary status, caste, race, religion, or protected demographic proxies"
+        },
+        "algorithmic_caste_scoring": {
+          "type": "boolean",
+          "description": "Legacy v1.0 alias for demographic_or_hereditary_stratification"
+        },
+        "unsanctioned_kinetic_or_coercive_transfer": {
+          "type": "boolean",
+          "description": "Transfer of kinetic or coercive surveillance capabilities in violation of international humanitarian law"
+        },
+        "atrocity_regime_export": {
+          "type": "boolean",
+          "description": "Legacy v1.0 alias for unsanctioned_kinetic_or_coercive_transfer"
+        },
+        "non_consensual_data_extraction": {
+          "type": "boolean",
+          "description": "Non-consensual extraction of ancestral, indigenous, or vulnerable community data"
+        }
+      },
+      "additionalProperties": false
+    },
+    "flourishing_indicators": {
+      "type": "object",
+      "properties": {
+        "livelihood_support": { "type": "boolean" },
+        "public_good_alignment": { "type": "boolean" },
+        "open_source_or_access": { "type": "boolean" },
+        "benefit_sharing_active": { "type": "boolean" },
+        "operational_redress": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "lokahi_manifest_spec": {
+      "type": "object",
+      "description": "Optional runtime parameters compiled into a signed RFC 8785 LOKAHI Boundary Manifest upon AIA approval",
+      "properties": {
+        "node": { "type": "string" },
+        "jurisdiction": { "type": "string" },
+        "residency": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "informational": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "forbidden_targets": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "exceptions": { "type": "object" },
+        "expires": { "type": "string" },
+        "steward": { "type": "string" },
+        "physical_envelope": {
+          "type": "object",
+          "properties": {
+            "max_contact_force_n": { "type": "number" },
+            "max_joint_torque_nm": { "type": "number" },
+            "max_cartesian_velocity_ms": { "type": "number" },
+            "workspace_bounds_m": {
+              "type": "array",
+              "items": { "type": "number" }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "ahimsa_commitment": {
+      "type": "string",
+      "description": "Statement of affirmative non-harm and flourishing commitments"
+    },
+    "severity": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Harm severity rating (1=Negligible to 5=Catastrophic)"
+    },
+    "likelihood": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Probability rating (1=Rare to 5=Almost Certain)"
+    },
+    "population": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Affected population exposure scale (1=<100 to 5=>100,000)"
+    },
+    "stack_multiplier": {
+      "type": "number",
+      "minimum": 1.0,
+      "maximum": 1.5,
+      "description": "Multi-layer harm multiplier (1.0=single layer to 1.5=three or more layers)"
+    }
+  },
+  "additionalProperties": false
+}

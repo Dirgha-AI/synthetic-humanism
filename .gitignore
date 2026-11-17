@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+*.zip
+
+# Keys, ledgers and approvals created by the LOKAHI how-to
+*.key
+*-ledger.jsonl
+.lokahi-ledger.jsonl
+approvals.jsonl
+
+# Local-only working notes and manuscripts. Never commit these.
+_internal/
+*.private.md
